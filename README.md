@@ -1,2 +1,2 @@
-# E-commerce-Web-Application
-E-commerce web application using JavaScript and using local storage
+# E-commerce-Web-application
+E-commerce web application based on javascript and json and local storage.
